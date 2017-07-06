@@ -64,7 +64,7 @@ if (!$errors && !$missing) {
                 '#greeting#' => "$name, thank you for registering for the Roux Academy
             Art Conference. This is a record of your registration details.",
                 '#photo#' => 'This photo will be used for your registration badge.'],
-        'secret@foundationphp.com' =>
+        'dev@martinszauer.com' =>
             ['#subject#' => "Art Conference Registration for $name",
                 '#greeting#' => "Registration details for $name.",
                 '#photo#' => 'Registration photo.']
